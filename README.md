@@ -10,7 +10,7 @@ If you type the ./myshell to run the shell program. It has the following functio
  - pwd--show your local dictionary path name
  - set-- set the environmental varibales, in my shell, I only support MYPATH, like: set MYPATH=/home:/usr/bin
  - exit--exit my shell
-P.S: you can terminate the shell forcely by EOF(control+D)
+ - P.S: you can terminate the shell forcely by EOF(control+D)
 
 2. external commands:
  - you can execute external commands like: cat,env,sleep and so on
