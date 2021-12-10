@@ -1,10 +1,7 @@
 # Shell-Toolkits
- This is a simple c program for the project 1, COP5570.
-The myshell.c will realize the simple functions in bash shell.
-The myls.c will realize the funtions like the command "ls -l".
+This is a simple c program for the project 1, COP5570. The **myshell.c** will realize the simple functions in bash shell.The **myls.c** will realize the funtions like the command "ls -l".
 
-You should type "make" to compile the .c files to get the execute files of myshell and myls.
-You can type "make clean" to clean up the files.
+You should type "make" to compile the .c files to get the execute files of myshell and myls. You can type "make clean" to clean up the files.
 
 ## myshell
 If you type the ./myshell to run the shell program. It has the following functions:
