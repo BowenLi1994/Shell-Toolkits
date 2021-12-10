@@ -6,10 +6,10 @@ You should type "make" to compile the .c files to get the execute files of myshe
 ## myshell
 If you type the ./myshell to run the shell program. It has the following functions:
 1. Build-in commands:
-a. cd <path_name>--change your path to a nwe path, like: cd ..
-b. pwd--show your local dictionary path name
-c. set-- set the environmental varibales, in my shell, I only support MYPATH, like: set MYPATH=/home:/usr/bin
-d. exit--exit my shell
+ - cd <path_name>--change your path to a nwe path, like: cd ..
+ - pwd--show your local dictionary path name
+ - set-- set the environmental varibales, in my shell, I only support MYPATH, like: set MYPATH=/home:/usr/bin
+ - exit--exit my shell
 P.S: you can terminate the shell forcely by EOF(control+D)
 
 2.external commands:
