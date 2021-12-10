@@ -34,9 +34,9 @@ like:  ./myls .   or ./myls usr/bin
 
 
 ## Disadvantage/Limitations:
-1.pipe only support at most 3 commands in each time.
+1. pipe only support at most 3 commands in each time.
 2. When you read a commands files, it will occur extra $,but it will be fine if you input line by line by your keyboard.
-P.S. : in most case, function of pipe is fine, but sometime it will occur error. When it happens, please restart the shell.  
+- P.S. In most case, function of pipe is fine, but sometime it will occur error. When it happens, please restart the shell.  
 
 
 
