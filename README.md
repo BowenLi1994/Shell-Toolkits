@@ -12,21 +12,21 @@ If you type the ./myshell to run the shell program. It has the following functio
  - exit--exit my shell
 P.S: you can terminate the shell forcely by EOF(control+D)
 
-2.external commands:
-you can execute external commands like: cat,env,sleep and so on
+2. external commands:
+ - you can execute external commands like: cat,env,sleep and so on
 
 3.background command:
-you can run the command in the background process like:sleep 10 &
+ - you can run the command in the background process like:sleep 10 &
 
 4. redirect command:
-input redirect: like cat<myls.c
-output redirecr like ls>ls_result
-input and output redirect like: cat<test>test2
+ - input redirect: like cat<myls.c
+ - output redirecr like ls>ls_result
+ - input and output redirect like: cat<test>test2
 
-5.pipe command:
+5. pipe command:
 my shell only support 2 or 3 commands in pipe.
-for 2 commands: ps -ef|more
-for 3 commands: cat myls.c|head -5|tail 2
+- for 2 commands: ps -ef|more
+- for 3 commands: cat myls.c|head -5|tail 2
 
 ## myls
 You should type ./myls+<path name> to show the detailed files' information under the path name.
