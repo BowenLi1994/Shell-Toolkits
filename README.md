@@ -15,7 +15,7 @@ If you type the ./myshell to run the shell program. It has the following functio
 2. external commands:
  - you can execute external commands like: cat,env,sleep and so on
 
-3.background command:
+3. background command:
  - you can run the command in the background process like:sleep 10 &
 
 4. redirect command:
